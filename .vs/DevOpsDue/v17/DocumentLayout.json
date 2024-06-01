@@ -1,10 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Repository\\Personal\\DevOpsDue\\",
+  "WorkspaceRootPath": "D:\\Repository\\Personal\\devopsdue\\",
   "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAE050D-B4B5-423A-AA99-09DE2E3097D4}|DevOpsDue.csproj|d:\\repository\\personal\\devopsdue\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2EAE050D-B4B5-423A-AA99-09DE2E3097D4}|DevOpsDue.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAE050D-B4B5-423A-AA99-09DE2E3097D4}|DevOpsDue.csproj|d:\\repository\\personal\\devopsdue\\.github\\workflows\\cicd.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2EAE050D-B4B5-423A-AA99-09DE2E3097D4}|DevOpsDue.csproj|solutionrelative:.github\\workflows\\cicd.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
     {
       "AbsoluteMoniker": "D:0:0:{2EAE050D-B4B5-423A-AA99-09DE2E3097D4}|DevOpsDue.csproj|d:\\repository\\personal\\devopsdue\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{2EAE050D-B4B5-423A-AA99-09DE2E3097D4}|DevOpsDue.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAE050D-B4B5-423A-AA99-09DE2E3097D4}|DevOpsDue.csproj|d:\\repository\\personal\\devopsdue\\devopsdue.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{2EAE050D-B4B5-423A-AA99-09DE2E3097D4}|DevOpsDue.csproj|solutionrelative:devopsdue.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2EAE050D-B4B5-423A-AA99-09DE2E3097D4}|DevOpsDue.csproj|d:\\repository\\personal\\devopsdue\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -27,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{2EAE050D-B4B5-423A-AA99-09DE2E3097D4}|DevOpsDue.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EAE050D-B4B5-423A-AA99-09DE2E3097D4}|DevOpsDue.csproj|d:\\repository\\personal\\devopsdue\\devopsdue.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{2EAE050D-B4B5-423A-AA99-09DE2E3097D4}|DevOpsDue.csproj|solutionrelative:devopsdue.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2EAE050D-B4B5-423A-AA99-09DE2E3097D4}|DevOpsDue.csproj|d:\\repository\\personal\\devopsdue\\devopsdue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2EAE050D-B4B5-423A-AA99-09DE2E3097D4}|DevOpsDue.csproj|solutionrelative:devopsdue.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -51,23 +59,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "D:\\Repository\\Personal\\DevOpsDue\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "D:\\Repository\\Personal\\DevOpsDue\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAApAAAA",
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Repository\\Personal\\devopsdue\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\Repository\\Personal\\devopsdue\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwCEAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-01T21:57:36.218Z",
+              "WhenOpened": "2024-06-01T22:50:50.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "cicd.yml",
+              "DocumentMoniker": "D:\\Repository\\Personal\\devopsdue\\.github\\workflows\\cicd.yml",
+              "RelativeDocumentMoniker": ".github\\workflows\\cicd.yml",
+              "ToolTip": "D:\\Repository\\Personal\\devopsdue\\.github\\workflows\\cicd.yml",
+              "RelativeToolTip": ".github\\workflows\\cicd.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-06-01T22:47:43.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Repository\\Personal\\devopsdue\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "D:\\Repository\\Personal\\devopsdue\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-01T22:47:32.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DevOpsDue",
-              "DocumentMoniker": "D:\\Repository\\Personal\\DevOpsDue\\DevOpsDue.csproj",
+              "DocumentMoniker": "D:\\Repository\\Personal\\devopsdue\\DevOpsDue.csproj",
               "RelativeDocumentMoniker": "DevOpsDue.csproj",
-              "ToolTip": "D:\\Repository\\Personal\\DevOpsDue\\DevOpsDue.csproj",
+              "ToolTip": "D:\\Repository\\Personal\\devopsdue\\DevOpsDue.csproj",
               "RelativeToolTip": "DevOpsDue.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-06-01T21:50:06.986Z",
@@ -75,81 +109,75 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\Repository\\Personal\\DevOpsDue\\appsettings.Development.json",
+              "DocumentMoniker": "D:\\Repository\\Personal\\devopsdue\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "D:\\Repository\\Personal\\DevOpsDue\\appsettings.Development.json",
+              "ToolTip": "D:\\Repository\\Personal\\devopsdue\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-01T21:08:40.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T21:08:40.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Repository\\Personal\\DevOpsDue\\appsettings.json",
+              "DocumentMoniker": "D:\\Repository\\Personal\\devopsdue\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Repository\\Personal\\DevOpsDue\\appsettings.json",
+              "ToolTip": "D:\\Repository\\Personal\\devopsdue\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-01T21:02:32.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T21:02:32.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DevOpsDue.csproj",
+              "DocumentMoniker": "D:\\Repository\\Personal\\devopsdue\\DevOpsDue.csproj",
+              "RelativeDocumentMoniker": "DevOpsDue.csproj",
+              "ToolTip": "D:\\Repository\\Personal\\devopsdue\\DevOpsDue.csproj",
+              "RelativeToolTip": "DevOpsDue.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-01T20:52:07.386Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "DevOpsDue.csproj",
-              "DocumentMoniker": "D:\\Repository\\Personal\\DevOpsDue\\DevOpsDue.csproj",
-              "RelativeDocumentMoniker": "DevOpsDue.csproj",
-              "ToolTip": "D:\\Repository\\Personal\\DevOpsDue\\DevOpsDue.csproj",
-              "RelativeToolTip": "DevOpsDue.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-01T20:52:07.386Z",
-              "EditorCaption": ""
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Repository\\Personal\\devopsdue\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Repository\\Personal\\devopsdue\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:18:55.337Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Repository\\Personal\\DevOpsDue\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Repository\\Personal\\DevOpsDue\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T20:18:55.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Repository\\Personal\\DevOpsDue\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\Repository\\Personal\\devopsdue\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "D:\\Repository\\Personal\\DevOpsDue\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Repository\\Personal\\devopsdue\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACEAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-01T20:07:04.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T20:07:04.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "D:\\Repository\\Personal\\DevOpsDue\\Controllers\\WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Repository\\Personal\\devopsdue\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "D:\\Repository\\Personal\\DevOpsDue\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Repository\\Personal\\devopsdue\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-01T19:57:53.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-01T19:57:53.606Z"
             }
           ]
         }

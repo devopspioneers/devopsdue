@@ -23,3 +23,4 @@ D:\Repository\Personal\DevOpsDue\obj\Debug\net8.0\refint\DevOpsDue.dll
 D:\Repository\Personal\DevOpsDue\obj\Debug\net8.0\DevOpsDue.pdb
 D:\Repository\Personal\DevOpsDue\obj\Debug\net8.0\DevOpsDue.genruntimeconfig.cache
 D:\Repository\Personal\DevOpsDue\obj\Debug\net8.0\ref\DevOpsDue.dll
+D:\Repository\Personal\devopsdue\obj\Debug\net8.0\DevOpsDue.sourcelink.json

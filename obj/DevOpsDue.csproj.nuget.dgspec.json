@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repository\\Personal\\DevOpsDue\\DevOpsDue.csproj": {}
+    "D:\\Repository\\Personal\\devopsdue\\DevOpsDue.csproj": {}
   },
   "projects": {
-    "D:\\Repository\\Personal\\DevOpsDue\\DevOpsDue.csproj": {
+    "D:\\Repository\\Personal\\devopsdue\\DevOpsDue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repository\\Personal\\DevOpsDue\\DevOpsDue.csproj",
+        "projectUniqueName": "D:\\Repository\\Personal\\devopsdue\\DevOpsDue.csproj",
         "projectName": "DevOpsDue",
-        "projectPath": "D:\\Repository\\Personal\\DevOpsDue\\DevOpsDue.csproj",
+        "projectPath": "D:\\Repository\\Personal\\devopsdue\\DevOpsDue.csproj",
         "packagesPath": "C:\\Users\\sayed\\.nuget\\packages\\",
-        "outputPath": "D:\\Repository\\Personal\\DevOpsDue\\obj\\",
+        "outputPath": "D:\\Repository\\Personal\\devopsdue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sayed\\AppData\\Roaming\\NuGet\\NuGet.Config",
